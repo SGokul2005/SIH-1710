@@ -32,12 +32,11 @@ Use speech recognition and TTS for accessibility.
 Host backend services on AWS or Google Cloud with MongoDB storage.
 
 ## Proposed Solution / Architecture Diagram
-![image](https://github.com/user-attachments/assets/413008d6-aefc-41aa-b750-21f968bff53f)
+![image](https://github.com/user-attachments/assets/04e82f01-dff0-47db-868f-eb72d1987f8f)
 
 
 ## Use Cases
-![image](https://github.com/user-attachments/assets/3bb7bacf-56f9-4fea-8b99-604dd809f9db)
-
+![image](https://github.com/user-attachments/assets/54fcea38-87d7-450d-9da8-10c1322d9422)
 
 
 ## Technology Stack
