@@ -11,16 +11,94 @@ Background: Railway stations are complex environments with numerous facilities a
 Ministry of Railway
 
 ## Idea
+Develop a mobile app and digital kiosks with 3D interactive station maps.
 
+Implement real-time, step-by-step navigation to all key facilities.
+
+Integrate voice-guided navigation for visually impaired users.
+
+Provide accessibility routes with elevators and ramps for disabled passengers.
+
+Sync with live train schedules and station updates via APIs.
+
+Use React Native or Flutter for cross-platform app development.
+
+Employ Mapbox or Google Maps API for indoor navigation.
+
+Implement real-time updates using WebSockets or Firebase.
+
+Use speech recognition and TTS for accessibility.
+
+Host backend services on AWS or Google Cloud with MongoDB storage.
 
 ## Proposed Solution / Architecture Diagram
+![image](https://github.com/user-attachments/assets/413008d6-aefc-41aa-b750-21f968bff53f)
 
 
 ## Use Cases
+![image](https://github.com/user-attachments/assets/3bb7bacf-56f9-4fea-8b99-604dd809f9db)
+
 
 
 ## Technology Stack
+Frontend:
+
+React Native or Flutter (for mobile app development).
+
+HTML/CSS/JavaScript (for digital kiosks and web interface).
+
+Google Maps API or Mapbox for station maps and location-based navigation.
+
+Backend:
+
+Node.js with Express.js (for handling server requests).
+
+MongoDB or MySQL (for storing station data, maps, and real-time updates).
+
+Firebase or Socket.io (for real-time data synchronization).
+
+Speech Recognition API and Google Text-to-Speech for voice features.
+
+Real-Time Updates:
+
+WebSockets or MQTT for real-time communication.
+
+REST APIs to fetch train schedules and station layouts.
+
+Cloud/Hosting:
+
+AWS or Google Cloud for hosting the backend services and storing data.
+
+Other Tools:
+
+Figma or Adobe XD for designing the mobile and kiosk UI/UX.
+
+OpenStreetMap or Google Maps for map integration.
+
 
 
 ## Dependencies
+Mobile Development Libraries:
+
+React Native for cross-platform mobile app development.
+
+Mapbox or Google Maps API for maps.
+
+React Navigation for handling page navigation.
+
+Backend Libraries:
+
+Express.js for routing.
+
+Socket.io for real-time communication.
+
+MongoDB for the database.
+
+Google Cloud or AWS SDK for cloud integration.
+
+Third-Party Services:
+
+Google Speech-to-Text API and Text-to-Speech API for accessibility features.
+
+Firebase for authentication and real-time notifications.
 
